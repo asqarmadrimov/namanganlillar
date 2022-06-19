@@ -1,0 +1,221 @@
+*{
+  box-sizing: border-box;
+}
+
+.continer{
+  width: 1230px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+header{
+  background-color: rgb(247, 238, 238);
+}
+.head-1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.rasm-1{
+  background-color: white;
+}
+.body-1{
+  display: flex;
+  align-items: center;
+}
+.sectr-1{
+  display: flex;
+  list-style-type: none;
+}
+.sectr-maen{
+  margin-left: 15px;
+}
+.link-1{
+  margin-left: 20px;
+}
+.sectr-2{
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  border: solid 0,1px;
+  background-color: white;
+}
+.woo{
+  margin: 20px 20px;
+  padding-left: 5px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+.sectr-3{
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  border: solid 0,1px;
+  background-color: rgb(247, 241, 241);
+}
+.qator-1{
+  margin: 20px 20px;
+  padding-left: 5px;
+}
+.sectr-4{
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.qator-2{
+  margin-top: 30px;
+  margin-right: 14px;
+  margin-bottom: 15px;
+  list-style-type: none;
+}
+.body-3{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: solid 0,1px ;
+  background-color: rgb(233, 211, 202);
+}
+.you{
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+}
+.pargrif-1{
+  margin-left: 20px;
+}
+.button-1{
+  margin-right: 20px;
+  background-color: sandybrown;
+  color: white;
+}
+.head-4{
+  margin-top: 30px;
+  display: flex;
+  align-items: center;
+}
+.sectr-5{
+  margin: 30px, 0;
+  padding: 0;
+  list-style-type: none;
+  width: 750px;
+}
+.qator-3{
+  display: flex;
+  margin-top: 20px;
+}
+.sectr-6{
+  margin-bottom: 15px;
+  list-style-type: none;
+  
+}
+.qator-4{
+border: solid 0,5px;
+background-color: aliceblue;
+text-align: center;
+}
+.rasm-4{
+  margin-left: 50px;
+}
+footer{
+  background-color: rgb(123, 123, 233);
+}
+.footer-1{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   margin-top: 50px;
+   color: white;
+}
+h2{
+  color: white;
+  width: 194;
+  height: 38;
+}
+.footer-paragrf{
+  margin-left: 120px;
+
+}
+.footer-button{
+  color:rgb(123, 123, 233) ;
+  margin-left: 50px;
+}
+.footer-2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  font-size: 20px;
+  font-style: normal;
+  line-height: 20px;
+  font-family: Arial, Helvetica, sans-serif
+}
+.footer-qism{
+  width: 400px;
+} 
+.footer-qator{
+  margin-top: 20px;
+  margin-right: 20px;
+}
+li{
+  margin-top: 10px;
+}
+.bolim-1{
+  margin-bottom: 500px;
+}
+.look{
+  background-color: rgb(88, 88, 235);
+  color: white;
+  margin-left: 300px;
+}
+.bolim-3{
+  display: flex;
+}
+form{
+  width: 300px;
+}
+input{
+  margin-bottom: 20px;
+}
+.nomber{
+  padding-left: 20px;
+  width: 600px;
+  height: 60px;
+}
+.text{
+  padding-bottom: 150px;
+  padding-left: 20px;
+  width: 600px;
+  height: 307px;
+}
+.kod{
+  padding-left: 20px;
+  width: 220px;
+  height: 60px;
+}
+.noon{
+  width: 220px;
+  height: 60px;
+  background-color: rgb(70, 70, 245);
+  color: white;
+}
+.box-1{
+  display: flex;
+}
+.box-2{
+  margin-top: 50px;
+  margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
